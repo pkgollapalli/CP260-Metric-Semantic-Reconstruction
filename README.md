@@ -199,7 +199,7 @@ Both paths validate the JSON schema before writing.
 
 ## Results
 
-### Sample Output
+### Output
 
 ![Frame 353](docs/odd_debug/frame_353.jpg)
 ![Frame 371](docs/odd_debug/frame_426.jpg)
