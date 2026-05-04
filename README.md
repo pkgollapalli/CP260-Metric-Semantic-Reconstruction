@@ -1,7 +1,8 @@
 # CP260-2026 Final Project — Metric-Semantic 3D Reconstruction
 
 **Author:** Gollapalli Praveen Kumar (SR No. 27480)  
-**Course:** CP260 Robotic Perception, IISc, 2026  
+**Course:** CP260 Robotic Perception, IISc, 2026 
+**Course Instructor:** Professor. Bharadwaj Amrutur
 **Submission file:** `outputs/answer_final.json`
 
 ---
@@ -78,7 +79,7 @@ Projected visualisations for the three baseline entities are in `docs/obb_debug/
 
 ## Reproducing the submission JSON
 
-**No-GPU path (recommended for grading):**
+**No-GPU path:**
 
 ```bash
 pip install -r requirements.txt
