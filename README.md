@@ -1,8 +1,11 @@
 # CP260-2026 Final Project — Metric-Semantic 3D Reconstruction
 
-**Author:** Gollapalli Praveen Kumar (SR No. 27480)  
+**Author:** Gollapalli Praveen Kumar (SR No. 27480) 
+
 **Course:** CP260 Robotic Perception, IISc, 2026 
+
 **Course Instructor:** Professor. Bharadwaj Amrutur
+
 **Submission file:** `outputs/answer_final.json`
 
 ---
