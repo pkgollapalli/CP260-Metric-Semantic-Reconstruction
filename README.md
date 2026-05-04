@@ -197,6 +197,13 @@ Both paths validate the JSON schema before writing.
 
 ---
 
+## Results
+
+### Sample Output
+
+![Frame 353](docs/odd_debug/frame_353.jpg)
+![Frame 371](docs/odd_debug/frame_426.jpg)
+
 ## Data conventions
 
 - `poses.json` — 4×4 camera-to-world matrices, keyed by frame number (string).
